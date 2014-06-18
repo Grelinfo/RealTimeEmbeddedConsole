@@ -12,6 +12,6 @@ Fonctionnalités réalisées:
 
 Matériel: cible Armadeus APF27 avec processeur ARM Freescale i.MX27 400MHz
 
-Documentations: 
+**Documentations:**
 
 http://romainfroidevaux.com/projects/2014-HES-EmbSys/
